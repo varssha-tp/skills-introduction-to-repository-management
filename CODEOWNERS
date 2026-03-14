@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @varssha-tp
+/src/backend/database.py      @varssha-tp
+/src/backend/routers/auth.py  @varssha-tp
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @varssha-tp
